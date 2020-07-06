@@ -12,7 +12,7 @@ My hypothesis is certain zip codes will have significantly higher SAT scores and
   <img src="https://raw.githubusercontent.com/ericciarla/NYC_SAT_ANALYSIS/master/output/top3bottom3.png" width="700px">
 </p>
 
-### As a result of our analysis we can uncover two things:
+### The analysis uncovers two things:
 - The distribution of scores is not normal and has a right skew. 
 - Zip codes with higher mean SAT scores will have higher average household incomes
 
