@@ -1,0 +1,7 @@
+NYC SAT Plan:
+
+With this project I am looking to investigate the relationship between
+NYC school zipcodes and mean SAT scores.
+
+My hypothesis is certain zipcodes will have clusters of high SAT scores
+while others will have clusters of low SAT scores.

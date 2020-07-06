@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593566215396.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8F0FA1A5",
+    "lastKnownWriteTime" : 140480264839000,
+    "last_content_update" : 1593566215396,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "263B0538",
+        "caption" : "NYC_SAT_DATA",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=NYC_SAT_DATA&cache_key=263B0538",
+        "displayedObservations" : "321",
+        "environment" : "",
+        "expression" : "NYC_SAT_DATA",
+        "object" : "NYC_SAT_DATA",
+        "preview" : "0",
+        "totalObservations" : "321",
+        "variables" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
